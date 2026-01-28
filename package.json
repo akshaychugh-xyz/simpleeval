@@ -1,5 +1,5 @@
 {
-  "name": "simpleeval",
+  "name": "@akshaychugh-xyz/simpleeval",
   "version": "0.0.1",
   "description": "Simple evaluation framework for LLMs",
   "main": "dist/index.js",
